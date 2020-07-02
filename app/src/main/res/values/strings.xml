@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNote</string>
+    <string name="edit_note_title">Edit Note</string>
+    <string name="new_note_title">New Note</string>
+    <string name="untitled">[Untitled]</string>
+    <string name="note_deleted">Note Deleted.</string>
+    <string name="note_discarded">Discarded Changes.</string>
+    <string name="saved_note">Saved.</string>
+</resources>
