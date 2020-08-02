@@ -1,0 +1,3 @@
+# simple-notes-app
+My first Android app.
+practice on the most basic features such as: RecyclerView, Room Databases, LiveData, etc...
